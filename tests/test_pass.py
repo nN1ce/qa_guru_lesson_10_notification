@@ -85,3 +85,6 @@ def test_pass20():
 
 def test_pass21():
     pass
+
+def test_pass21():
+    pass
