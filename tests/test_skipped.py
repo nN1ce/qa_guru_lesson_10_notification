@@ -28,8 +28,3 @@ import pytest
 @pytest.mark.skip
 def test_skipped4():
     pass
-
-
-@pytest.mark.skip
-def test_skipped5():
-    pass
